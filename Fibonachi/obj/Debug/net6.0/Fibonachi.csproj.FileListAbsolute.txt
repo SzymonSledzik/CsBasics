@@ -1,0 +1,15 @@
+C:\ProjektSTP\CsharpBasics\Fibonachi\bin\Debug\net6.0\Fibonachi.exe
+C:\ProjektSTP\CsharpBasics\Fibonachi\bin\Debug\net6.0\Fibonachi.deps.json
+C:\ProjektSTP\CsharpBasics\Fibonachi\bin\Debug\net6.0\Fibonachi.runtimeconfig.json
+C:\ProjektSTP\CsharpBasics\Fibonachi\bin\Debug\net6.0\Fibonachi.dll
+C:\ProjektSTP\CsharpBasics\Fibonachi\bin\Debug\net6.0\Fibonachi.pdb
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.AssemblyReference.cache
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfoInputs.cache
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfo.cs
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.dll
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\refint\Fibonachi.dll
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.pdb
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\Fibonachi.genruntimeconfig.cache
+C:\ProjektSTP\CsharpBasics\Fibonachi\obj\Debug\net6.0\ref\Fibonachi.dll

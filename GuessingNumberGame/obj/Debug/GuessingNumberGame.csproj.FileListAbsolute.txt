@@ -1,0 +1,8 @@
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\bin\Debug\GuessingNumberGame.exe.config
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\bin\Debug\GuessingNumberGame.exe
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\bin\Debug\GuessingNumberGame.pdb
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\obj\Debug\GuessingNumberGame.csproj.AssemblyReference.cache
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\obj\Debug\GuessingNumberGame.csproj.SuggestedBindingRedirects.cache
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\obj\Debug\GuessingNumberGame.csproj.CoreCompileInputs.cache
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\obj\Debug\GuessingNumberGame.exe
+C:\ProjektSTP\CsharpBasics\GuessingNumberGame\obj\Debug\GuessingNumberGame.pdb

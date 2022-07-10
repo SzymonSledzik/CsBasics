@@ -1,0 +1,8 @@
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\bin\Debug\Basics_of_new_language(dot net).exe.config
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\bin\Debug\Basics_of_new_language(dot net).exe
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\bin\Debug\Basics_of_new_language(dot net).pdb
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\obj\Debug\Basics_of_new_language(dot net).csproj.AssemblyReference.cache
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\obj\Debug\Basics_of_new_language(dot net).csproj.SuggestedBindingRedirects.cache
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\obj\Debug\Basics_of_new_language(dot net).csproj.CoreCompileInputs.cache
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\obj\Debug\Basics_of_new_language(dot net).exe
+C:\ProjektSTP\CsharpBasics\Basics_of_new_language(dot net)\obj\Debug\Basics_of_new_language(dot net).pdb
