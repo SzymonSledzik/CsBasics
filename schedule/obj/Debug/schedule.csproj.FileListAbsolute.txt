@@ -1,0 +1,11 @@
+C:\ProjektSTP\CsBasics\schedule\bin\Debug\schedule.exe.config
+C:\ProjektSTP\CsBasics\schedule\bin\Debug\schedule.exe
+C:\ProjektSTP\CsBasics\schedule\bin\Debug\schedule.pdb
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.csproj.AssemblyReference.cache
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.csproj.SuggestedBindingRedirects.cache
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.Properties.Resources.resources
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.csproj.GenerateResource.cache
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.csproj.CoreCompileInputs.cache
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.exe
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.pdb
+C:\ProjektSTP\CsBasics\schedule\obj\Debug\schedule.Form1.resources
